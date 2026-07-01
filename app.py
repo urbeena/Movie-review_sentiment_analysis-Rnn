@@ -13,7 +13,7 @@ def preprocess_data(input_data):
     return padded_review
 
 
-model = load_model(r'C:\Users\HP\OneDrive\Desktop\RNN-Movie review-Sentiment Alanysis\simple_rnn_imdb.h5')
+model = load_model('simple_rnn_imdb.h5')
 
 st.title('IMDB Movie Review Sentiment Analysis')
 st.write('Enter a movie review to classify it as positive or negative.')
