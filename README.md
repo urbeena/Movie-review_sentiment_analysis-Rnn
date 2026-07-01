@@ -9,6 +9,8 @@ A Deep Learning-based sentiment analysis application that classifies movie revie
 Sentiment Analysis is one of the most popular Natural Language Processing (NLP) tasks. This project leverages a Simple RNN model to understand the sequential nature of text and predict the sentiment of movie reviews.
 
 The model is trained on the **IMDB Movie Review Dataset** and deployed using **Streamlit**.
+<img width="1007" height="687" alt="image" src="https://github.com/user-attachments/assets/74a56a37-f1ac-4de5-9161-df7cc85c5779" />
+
 
 ---
 
